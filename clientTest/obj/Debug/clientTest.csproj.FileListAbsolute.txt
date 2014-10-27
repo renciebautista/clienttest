@@ -1,0 +1,16 @@
+D:\visual studio.dev\clientTest\clientTest\bin\Debug\clientTest.exe
+D:\visual studio.dev\clientTest\clientTest\bin\Debug\clientTest.pdb
+D:\visual studio.dev\clientTest\clientTest\obj\Debug\clientTest.Form1.resources
+D:\visual studio.dev\clientTest\clientTest\obj\Debug\clientTest.Properties.Resources.resources
+D:\visual studio.dev\clientTest\clientTest\obj\Debug\clientTest.csproj.GenerateResource.Cache
+D:\visual studio.dev\clientTest\clientTest\obj\Debug\clientTest.exe
+D:\visual studio.dev\clientTest\clientTest\obj\Debug\clientTest.pdb
+D:\visual studio.dev\clientTest\clientTest\obj\Debug\clientTest.csprojResolveAssemblyReference.cache
+D:\visual studio.dev\syntech\clientTest\clientTest\obj\Debug\clientTest.exe
+D:\visual studio.dev\syntech\clientTest\clientTest\obj\Debug\clientTest.pdb
+D:\visual studio.dev\syntech\clientTest\clientTest\bin\Debug\clientTest.exe
+D:\visual studio.dev\syntech\clientTest\clientTest\bin\Debug\clientTest.pdb
+D:\visual studio.dev\syntech\clientTest\clientTest\obj\Debug\clientTest.csprojResolveAssemblyReference.cache
+D:\visual studio.dev\syntech\clientTest\clientTest\obj\Debug\clientTest.Form1.resources
+D:\visual studio.dev\syntech\clientTest\clientTest\obj\Debug\clientTest.Properties.Resources.resources
+D:\visual studio.dev\syntech\clientTest\clientTest\obj\Debug\clientTest.csproj.GenerateResource.Cache
